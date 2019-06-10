@@ -1,0 +1,6 @@
+<input type="checkbox" id="chk_INT143403  01" value="INT143403  01|INT1434|Lập trình Web|03|3|3|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT141407    " value="INT141407    |INT1414|Cơ sở dữ liệu phân tán|07|2|2|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT140403    " value="INT140403    |INT1404|Các hệ thống dựa trên tri thức|03|3|3|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT134204    " value="INT134204    |INT1342|Phân tích và thiết kế hệ thống thông tin|04|4|4|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT143304  01" value="INT143304  01|INT1433|Lập trình mạng|04|3|3|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT145004    " value="INT145004    |INT1450|Quản lý dự án phần mềm|04|2|2|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
