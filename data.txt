@@ -1,6 +1,6 @@
-<input type="checkbox" id="chk_INT143403  01" value="INT143403  01|INT1434|Lập trình Web|03|3|3|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
-<input type="checkbox" id="chk_INT141407    " value="INT141407    |INT1414|Cơ sở dữ liệu phân tán|07|2|2|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
-<input type="checkbox" id="chk_INT140403    " value="INT140403    |INT1404|Các hệ thống dựa trên tri thức|03|3|3|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
-<input type="checkbox" id="chk_INT134204    " value="INT134204    |INT1342|Phân tích và thiết kế hệ thống thông tin|04|4|4|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
-<input type="checkbox" id="chk_INT143304  01" value="INT143304  01|INT1433|Lập trình mạng|04|3|3|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
-<input type="checkbox" id="chk_INT145004    " value="INT145004    |INT1450|Quản lý dự án phần mềm|04|2|2|01/01/0001|0|0|0| |0|D16HTTT"  onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT140504    "  value="INT140504    |INT1405|Các hệ thống phân tán|04|3|3|01/01/0001|0|0|0| |0|D16HTTT" onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT140904    "  value="INT140904    |INT1409|Chuyên đề hệ thống thông tin|04|1|1|01/01/0001|0|0|0| |0|D16HTTT" onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT141803    "  value="INT141803    |INT1418|Hệ cơ sở dữ liệu đa phương tiện|03|3|3|01/01/0001|0|0|0| |0|D16HTTT" onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT142202    "  value="INT142202    |INT1422|Kho dữ liệu và khai phá dữ liệu|02|3|3|01/01/0001|0|0|0| |0|D16HTTT" onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT144503    "  value="INT144503    |INT1445|Phát triển hệ thống thông tin quản lý|03|3|3|01/01/0001|0|0|0| |0|D16HTTT" onclick="toDKSelectedChange(this)">
+<input type="checkbox" id="chk_INT144601    "  value="INT144601    |INT1446|Phát triển hệ thống thương mại điện tử|01|3|3|01/01/0001|0|0|0| |0|D16HTTT" onclick="toDKSelectedChange(this)">
